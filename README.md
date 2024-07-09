@@ -7,3 +7,6 @@ https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and
 
 More Detailed Implementation Time Series:
 https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python
+
+MultiTouch Attribution Model in python using Markov Chain:
+https://www.kaggle.com/code/hughhuyton/multitouch-attribution-modelling
