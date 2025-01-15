@@ -10,3 +10,5 @@ https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-i
 
 MultiTouch Attribution Model in python using Markov Chain:
 https://www.kaggle.com/code/hughhuyton/multitouch-attribution-modelling
+
+https://medium.com/@xiaotingkuangcu/machine-learning-based-multi-touch-attribution-models-f95e45f7ab0f
